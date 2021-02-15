@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi, I'm 吴宗翰 (Zonghan Wu) 👋
 
+- 🍻 Senior Software Engineer at Coupang
+- ⚡ Java / Scala / Python.
+- 🏃 Soccer / Music / Reading
 <!--
 **476678244/476678244** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
