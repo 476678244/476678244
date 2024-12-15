@@ -1,6 +1,6 @@
 ### Hi, I'm 吴宗翰 (Zonghan Wu) 👋
 
-- 🍻 Senior Software Engineer at Coupang
+- 🍻 Staff Machine Learning Engineer at Coupang
 - ⚡ Java / Scala / Python.
 - 🏃 Soccer / Music / Reading
 <!--
